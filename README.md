@@ -1,4 +1,4 @@
-# NIST-HL7-WS-CLIENT-C-
+# NIST-HL7-WS-CLIENT-C#
 This is the NIST HL7 v2 C# Web Service Client
 
 1. Download Visual Studio Community ("Powerful IDE, free for students, open-source contributors, and individuals")
